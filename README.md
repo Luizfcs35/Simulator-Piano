@@ -2,5 +2,4 @@
 
 Projeto desenvolvido no Bootcamp Potência Tech iFood - Desenvolvimento de Jogos - DIO
 
-!["project finish"](src/image/Musical Keyboard Virtual.png)
-
+![Projeto Finalizado](src/image/Virtual Keyboard Musical.png)
