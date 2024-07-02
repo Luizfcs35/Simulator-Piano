@@ -23,7 +23,6 @@ body {
 }
 header h2 {
   font-size: 1.6rem;
-
 }
 
 header .column {
@@ -35,12 +34,10 @@ header .column span {
   font-weight: 500;
   margin-right: 15px;
   font-size: 1.19rem;
-
 }
 
 .volume-slider input {
   accent-color: #fff;
-
 }
 
 .keys-check input {
@@ -98,7 +95,6 @@ header .column span {
 
 .piano-keys .key.hide span{
   display: none;
-  
 }
 
 .piano-keys .white {
@@ -122,7 +118,6 @@ header .column span {
   box-shadow: inset -5px 10px 20px rgba(0, 0, 0, 0.1);
   background: linear-gradient(to bottom #fff 0%, #fafafa 50%);
 }
-
 
 .piano-keys .black.active {
   box-shadow: inset 5px 10px 10px rgba(255, 255, 255, 0.3);
