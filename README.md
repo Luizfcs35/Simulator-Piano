@@ -1,1 +1,3 @@
-<img src="src/image/Musical Keyboard Virtual.png">
+# Musical Virtual Keyboard
+
+Projeto desenvolvido no Bootcamp
